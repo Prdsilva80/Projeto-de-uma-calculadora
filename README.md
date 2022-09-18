@@ -8,18 +8,17 @@
 
 
 
-## Tecnologias
+## 🛠️ Tecnologias
 
-HTML
+- HTML
+- CSS
+- JAVASCRIPT
 
-CSS
+## 👨‍🎓 O que aprendi
 
-JAVASCRIPT
+- Como configurar o uso da calculadora.
+- Dei inicio ao uso do JavaScript, e comecei a entender a lógica das ferramentas usadas.
 
-## O que aprendi
+## 🔗 Contato
 
-Como configurar o uso da calculadora. Dei inicio ao uso do JavaScript, e comecei a entender a lógica das ferramentas usadas.
-
-## Contato
-
->email: probertos717@gmail.com
+- email: probertos717@gmail.com
