@@ -7,7 +7,7 @@
 ![preview](./.github/preview.png)
 
 
-[ClicK aqui para acessar](github.com/Prdsilva80/calculadora/)
+[ClicK aqui para acessar](https://prdsilva80.github.io/Projeto-de-uma-calculadora/)
 
 
 ## 🛠️ Tecnologias
