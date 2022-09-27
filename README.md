@@ -12,9 +12,7 @@
 
 ## 🛠️ Tecnologias
 
-- HTML
-- CSS
-- JAVASCRIPT
+![preview](./.github/html.svg) ![preview](./.github/css.svg) ![preview](./.github/javascript.svg) ![preview](./.github/git.svg)
 
 ## 👨‍🎓 O que aprendi
 
